@@ -2,7 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "merchantCode": "EdenredES",
+      "numeroFactura": 1,
     }
   ],
   "profile": {
