@@ -3,7 +3,10 @@
     {
       "id": 1,
       "merchantcode": "EdenredES",
-      "numerofactura": 1
+      "numerofactura": 1,
+      "services": [{"Domicilio MacDonalds", "Servicio de domicilio MacDonalds", 12}, {"Domicilio BurgerKing", "Servicio de domicilio BurgerKing", 10.5}],
+      "total": 22.5,
+      "fecha": "2022-01-05"
     }
   ],
   "profile": {
