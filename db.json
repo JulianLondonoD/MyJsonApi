@@ -20,6 +20,16 @@
       "fecha": "2022-01-05"
     }
   ],
+   "translations": [
+    {
+      "title": "Invoice",
+        "invoice" : {
+            "send" : "Send",
+            "download": "Download Invoice",
+            "merchant_code": "Merchant Code"
+        }
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
