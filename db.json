@@ -20,9 +20,19 @@
       "fecha": "2022-01-05"
     }
   ],
-   "translations": [
+   "translationsES": [
     {
-      "title": "Invoice",
+        "title": "Factura",
+        "invoice" : {
+            "send" : "Enviar",
+            "download": "Descargar Factura",
+            "merchant_code": "Código de comerciante"
+        }
+    }
+  ],
+   "translationsEN": [
+    {
+        "title": "Invoice",
         "invoice" : {
             "send" : "Send",
             "download": "Download Invoice",
